@@ -1,0 +1,115 @@
+{
+  "Index": {
+    "title": "Hola mundo!"
+  },
+
+  "Cv": {
+    "titleCreate": "Crear curriculum"
+  },
+
+  "MakeCv":{
+    "form1" : {
+      "profile": "Perfil",
+      "fullName": "Nombre completo",
+      "position": "Posicion",
+      "description": "Descripcion",
+      "placeDescription": "Que haces? Como lo haces? Porque tu y no los demas?",
+      "firstHelp": "Bienvenido a MakeCv. Vamos a dar el primer paso en tu carrera profesional",
+      "secondHelp": "Escribe el puesto que buscas o postulas. Sea específico, en la mayoría de los casos creará un curriculum para puesto.",
+      "thirthHelp": "En esta parte, es muy importante crear un texto basado en tres preguntas. ¿Cuántos años tienes en el cargo? ¿Qué haces en esa posición? ¿Y por qué tú y no los demás?",
+      "fourthHelp": "Te daré un pequeño ejemplo, abre tu archivo de Word y escribe. Desarrollador web fullstack enfocado en frontend con más de un año de experiencia trabajando con Node.js, Vue.js, Quasar, GraphQL, React y Next. Mi principal objetivo es fusionar funcionalidad y estética para ofrecer productos que no sólo cumplan con los requisitos técnicos sino que también cautiven a los usuarios. Si te das cuenta, respondo las tres preguntas.",
+      "back": "Atras",
+      "next": "Proximo",
+      "skip": "Saltar",
+      "cancel": "Cancelar",
+      "help": "Ayuda"
+
+      
+    },
+    "form2": {
+      "contact": "Contacto",
+      "email": "Email",
+      "located": "Ubicacion",
+      "personalWeb": "Web personal",
+      "firstHelp": "Este formulario es sobre information de contacto. Tomate tu tiempo a la hora de llenar el formulario, porque esta informacion es usada por los reclutadores cuando necesitan darte un feedback",
+      "secondHelp": "Escribe la direccion de tu perfil de linkedin. Si no tienes uno, puedes crearlo en el siguiente  enlace: https://www.linkedin.com/login/es. Esta plataforma es muy util cuando estas buscando trabajo",
+      "thirthHelp": "Some times you have a personal website where you can share your work."
+    },
+    "form3": {
+      "experience": "Experiencia",
+      "company": "Empresa",
+      "position": "Posicion",
+      "dateIni": "Fecha Ini",
+      "dateEnd": "Fecha fin",
+      "new": "Nuevo",
+      "delete": "Eliminar",
+      "description": "Descripción",
+      "subDateEnd": "Escribe presente si este es tu actual trabajo",
+      "placeDescription": "Describe al menos 3 cosas que haces todos los días",
+      "firstHelp": "Comparte con los reclutadores tus últimos tres trabajos relacionados con el puesto que estás postulando. Si no tienes experiencia, no te preocupes, también puedes escribir sobre tus proyectos recientes.",
+      "secondHelp": "En este campo puedes escribir el nombre de tu proyecto personal en caso de que no tengas experiencia laboral.", 
+      "thirthHelp": "y en este campo podrías escribir cuál era tu puesto para ese proyecto"
+    },
+    "form4":{
+      "education": "Educacion",
+      "schoolUniversity": "Escuela o universidad",
+      "bachelor": "Grado",
+      "dateIni": "Fecha Ini",
+      "dateEnd": "Fecha fin",
+      "subDateEnd": "Escribe Presente si aún estás estudiando aquí",
+      "new": "Nuevo",
+      "delete": "Eliminar",
+      "firstHelp": "Este formulario le ayuda a compartir información sobre su educación",
+      "secondHelp": "Este formulario le ayuda a compartir información sobre su educación"
+    },
+    "form5":{
+      "skills": "Habilidades",
+      "languages": "Idiomas",
+      "name": "Nombre",
+      "level": "Nivel",
+      "new": "Nuevo",
+      "language": "idioma",
+      "skill": "habilidad",
+      "basic": "Basico",
+      "delete": "Eliminar",
+      "intermediate": "Intermedio",
+      "advanced": "Avanzado",
+      "native": "nativo",
+      "firstHelp": "Vamos a saber más sobre ti",
+      "secondHelp": "Añade habilidades que puedas ofrecer o representarte a ti mismo. Si trabaja como desarrollador web, este sería un buen lugar para sus habilidades tecnológicas, como react, next, vue o quasar. Además, puede escribir sobre sus habilidades sociales como liderazgo, trabajo en equipo y proactividad.",
+      "thirthHelp": "Puedes agregar los idiomas que hablas"
+    },
+    "form6":{
+      "others": "Otros",
+      "age": "Edad",
+      "chooseFile": "Selecciona un archivo",
+      "image": "Imagen",
+      "charget": "Cargada",
+      "create": "Crear",
+      "firstHelp": "Los reclutadores quieren saber que edad tienes",
+      "secondHelp": "Es muy importante que tu currículum tenga una foto tuya. Puedes sonreír si quieres o te sientes cómodo. Evite fotografías similares a su documento nacional, fotografías con otra persona, gafas o sombreros. No te preocupes si no te sientes como un súper modelo, recuerda, una foto tuya es importante para los reclutadores porque quieren conocerte mejor. ¿Te imaginas casarte con una persona sin haberle visto la cara? Lo sé, hay culturas que hacen eso, pero ya me entiendes."
+    }, 
+    "form7":{
+      "great": "Excelente",
+      "subtitle": "Has creado tu currículum, ahora puedes guardarlo en caso de que quieras usarlo más tarde.",
+      "saveSubtitle": "Nombra el plan de estudios que acabas de crear y guárdalo",
+      "editSubtitle": "Nombra el plan de estudios que acabas de editar y guárdalo.",
+      "save": "Guardar",
+      "firstHelp": "Excelente, has completado tu curriculum. Ahora puedes postular puestos o compartirlo con reclutadores",
+      "secondHelp": "Asigne un nombre al curriculum que acaba de crear si desea imprimirlo, editarlo o verlo más tarde"
+    },
+    "dialog":{
+      "new": "Nuevo",
+      "msgTitle": "mensaje",
+      "msg": "Completa todos los campos antes de continuar",
+      "close" : "Cerrar"
+    }
+  },
+  "chucholeo":{
+    "title1": "Hola, mi nombre es Lugo, Jesús Lugo, y en este sitio encontrarás los proyectos más relevantes que he realizado como desarrollador web y algunas colaboraciones con socios. Me gustaría compartir algo sobre mí, soy licenciado en bioanalisis, pero siempre me he sentido atraido por el mundo digital. Al final, obtuve mi título de bioanalista, pero actualmente creo aplicaciones web usando Vue, React, Quasar, Next, Graphql y Node.",
+    "title2": "Haber estudiado bioanálisis y trabajar como desarrollador web me permite ver el entorno tecnológico de una manera diferente, es decir, hay que ser disciplinado, organizado y tener espíritu de trabajo en equipo cuando se trabaja en un laboratorio, así que gracias a eso he podido lograr todas las metas que me he propuesto como desarrollador.",
+    "title3": "En conclusión, no hay límite que te defina, me gusta pensar que si tienes tiempo y compromiso te sorprenderás de lo que puedes hacer."
+}
+
+
+}

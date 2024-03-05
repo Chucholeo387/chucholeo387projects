@@ -1,0 +1,116 @@
+{
+    "Index": {
+      "title": "Hello world!"
+    },
+
+    "Cv": {
+      "titleCreate": "Create curriculum"
+    },
+
+    "MakeCv":{
+      "form1" : {
+        "profile": "Profile",
+        "fullName": "Full name",
+        "position": "Position",
+        "description": "Description",
+        "placeDescription": "What do you do? how do you do it? why are you not the others?",
+        "firstHelp": "Welcome to Make Cv. Lets gonna give the first step in your professional carrer",
+        "secondHelp": "Write the position you are looking for or applying. Be specific, in the most case you are gonna create a curriculum for each position",
+        "thirthHelp": "On this part, is very important create a text based on three questions. How many years you have as position? what are you do in that position? and why you and not the others?",
+        "fourthHelp": "I gonna give you a litle example, open your word file and write. Fullstack web developer focused on frontend with over a year of experience working with Node.js, Vue.js, Quasar, GraphQL, React, and Next. My main goal is to merge functionality and aesthetics to deliver products that not only meet technical requirements but also captivate users. You can reliazed, I anwser the three questions.",
+        "back": "Back",
+        "next": "Next",
+        "skip": "Skip",
+        "cancel": "Cancel",
+        "help": "Help"
+
+        
+      },
+      "form2": {
+        "contact": "Contact",
+        "email": "Email",
+        "located": "Located",
+        "personalWeb": "Personal web",
+        "firstHelp": "This form is about your contact information. Take your time when you fill out this form, because this informations are used by recruiter when they need give you a feed back",
+        "secondHelp": "Write your url for you likedin profile. If you dont have one, can create it on this site: https://www.linkedin.com/login/en . This plataform es very useful when you need a job",
+        "thirthHelp": "Some times you have a personal website where you can share your work."
+      },
+      "form3": {
+        "experience": "Experience",
+        "company": "Company",
+        "position": "Position",
+        "dateIni": "Date Ini",
+        "dateEnd": "Date End",
+        "new": "New",
+        "delete": "Remove",
+        "subDateEnd": "Write Present if this you currently job",
+        "description": "Description",
+        "placeDescription": "Describes at less 3 thing you do every day",
+        "firstHelp": "Share with recruiters your last three jobs related with the position you are applying. If you dont have experience, dont worry, you also can write about your recent projects.",
+        "secondHelp": "In this field you can write the name of your personal project in case you dont have work experience", 
+        "thirthHelp": "and this field you could write what was your position for that project"
+      },
+      "form4":{
+        "education": "Education",
+        "schoolUniversity": "School or University",
+        "bachelor": "Bachelor",
+        "dateIni": "Date Ini",
+        "dateEnd": "Date End",
+        "subDateEnd": "Write Present if you are studynd here yet",
+        "new": "New",
+        "delete": "Remove",
+        "firstHelp": "This form helps you share information about your education.",
+        "secondHelp": "This form helps you share information about your education."
+      },
+      "form5":{
+        "skills": "Skills",
+        "languages": "Languages",
+        "name": "Name",
+        "level": "Level",
+        "new": "New",
+        "language": "Language",
+        "skill": "skill",
+        "basic": "Basic",
+        "delete": "Remove",
+        "intermediate": "Intermeditae",
+        "advanced": "Advanced",
+        "native": "Native",
+        "firstHelp": "lets gonna know more about you",
+        "secondHelp": "Add skills that you can offer or represent yourself. If work as web developer this would be a good place for yours tecnologys skills, like react, next, vue or quasar. Also, can write about your soft skills like lidership, team work, proactive.",
+        "thirthHelp": "You can add the languages you speak"
+      },
+      "form6":{
+        "others": "Others",
+        "age": "Age",
+        "chooseFile": "Choose File",
+        "image": "Image",
+        "charget": "charget",
+        "create": "Create",
+        "firstHelp": "the recruiters want to know how old are you",
+        "secondHelp": "It so important that your curriculum has a picture of you. You can smile if you want or feel confortable. Avoid picture similar your national document, pictures with someone else, glasses or hats. Dont worry if you dont feel like super model, remenber, a picture of you is important for recruiters because want to know you better. Can you image get married with a person without to have see a face? i know, there are cultures who do that, but, you got it me."
+      }, 
+      "form7":{
+        "great": "Great",
+        "subtitle": "You have created your curriculum, now you can saved in case you wanna use it later.",
+        "saveSubtitle": "Name the curriculum you just create and save it",
+        "editSubtitle": "Name the curriculum you just edit and save it",
+        "save": "Save",
+        "firstHelp": "Great, you have completed your curriculum. Now you can apply positions or share it with recruiters",
+        "secondHelp": "Assing a name for the curriculum you just create if you want print, edit o watch later."
+      },
+      "dialog":{
+        "new": "New",
+        "msgTitle": "message",
+        "msg": "Fill in all fields before continuing",
+        "close" : "close"
+      }
+
+    },
+    "chucholeo":{
+        "title1": "Hello there, my name is Lugo, Jesus Lugo, and on this site you are gonna find the most relevant projects i have done as web developer and few colobarations with partners. I would like share something about me, i have a degree as bioanalyst, but always i have felt attracted for the digital world. At the end, i got my degree as bioanalyst but currently I create applications web aplications using Vue, React, Quasar, Next, Graphql and Node.",
+        "title2": "Having studied bioanalysis and work as web developer allow me see the tecnologie enviroment the diferent way, i mean, you need to be disciplane, organize and have team work spirit when work in a lab, so thanks to that I have been able to achieve all the goals that I have set for myself as a developer and have obtained good results in my daily life.",
+        "title3": "In conclusion, There is not limit that define you, l like to think if you have time and commitment you will go surprise you that you can do."
+    }
+
+
+}
