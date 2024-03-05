@@ -334,7 +334,7 @@ const education = [
           
         },
         profile: {
-          fontSize: 12,
+          fontSize: 11,
           lineHeight: 1.2, 
         },
         listItem: {
